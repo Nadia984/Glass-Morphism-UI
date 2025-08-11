@@ -10,3 +10,5 @@ SImple and responsive layout
 ##Tool Used
 Figma for UI Design
 PNG export for preview
+##License
+This project is licensed under the [MIT License](LICENSE)
